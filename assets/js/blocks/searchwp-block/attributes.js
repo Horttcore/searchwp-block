@@ -10,7 +10,7 @@ export default {
     },
     placeholder: {
         type: "string",
-        default: _x('Search …', 'placeholder'),
+        default: _x('Search &hellip;', 'placeholder'),
     },
     action: {
         type: "string",
@@ -18,7 +18,7 @@ export default {
     },
     noResult: {
         type: "string",
-        default: __('No results found, please search again.', 'searchwp-block'),
+        default: __('No results found.'),
     },
     engine: {
         type: "string",

@@ -19,6 +19,11 @@ A SearchWP Block
 
 ## Changelog
 
+### 0.2 - 2020-16-07
+
+* Improve translations
+* Fix fatal error
+
 ### 0.1 - 2020-16-07
 
 * Initial release

@@ -11,10 +11,7 @@
   "autoload": {
     "psr-4": {
       "RalfHortt\\SearchWPBlock\\": "src/"
-    },
-    "files": [
-      "inc/functions.php"
-    ]
+    }
   },
   "require": {
     "ralfhortt/wp-plugin": "^2",

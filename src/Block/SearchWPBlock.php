@@ -18,7 +18,7 @@ class SearchWPBlock extends Block
             ],
             'placeholder' => [
                 'type' => 'string',
-                'default' => _x('Search …', 'placeholder'),
+                'default' => _x('Search &hellip;', 'placeholder'),
             ],
             'action' => [
                 'type' => 'string',
@@ -26,7 +26,7 @@ class SearchWPBlock extends Block
             ],
             'noResult' => [
                 'type' => 'string',
-                'default' => __('No results found, please search again.', 'searchwp-block'),
+                'default' => __('No results found.'),
             ],
             'engine' => [
                 'type' => 'string',
