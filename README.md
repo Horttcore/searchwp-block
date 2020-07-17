@@ -6,6 +6,10 @@ A SearchWP Block
 
 `composer require ralfhortt/searchwp-block`
 
+## Description
+
+Add a SearchWP search form on your page with the ability to select a custom engine.
+
 ## Hooks
 
 ### Action
